@@ -1,10 +1,10 @@
 # pokeradar
 
 
-======= Properties =======
 
 
-## EASY RELEASE 
+
+## EASY 123 RELEASE 
 
 Date: September 2016
 Time: 13:50 PM
