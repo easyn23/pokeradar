@@ -1,4 +1,4 @@
-# pokeradar
+# poke bot radar
 
 
 
@@ -9,7 +9,7 @@
 Date: September 2016
 Time: 13:50 PM
 
-## Simplified multi image mobile version (#200)
+## Simplified multi bot version (#200)
 * Brand page Alignment-fixes
 * Rollover pot applied
 * script, css and markup updated. 
